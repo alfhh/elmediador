@@ -131,7 +131,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-	background:url('/img/EMBLEMA%20GRANDE.png') 50% 0 no-repeat fixed;
+	background:url('../img/EMBLEMA%20GRANDE.png') 50% 0 no-repeat fixed;
     background-color: #40A9AE;
     background-size: 581px 392px;
     background-position: center;

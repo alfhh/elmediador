@@ -10,20 +10,16 @@ p {
 }
 
 .profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 257px;
     width: 202px;
 }
 
-.newspaper {
-    margin: 0;
-	padding: 50px 40px 50px 180px;
-    position: center;
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-    -webkit-column-width: 100px; /* Chrome, Safari, Opera */
-    -moz-column-width: 100px; /* Firefox */
-    column-width: 100px;
+.pName{
+    font-family: "Myriad Pro Semibold";
+    text-align: center;
 }
 
 /** FONTS **/
