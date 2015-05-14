@@ -9,6 +9,11 @@ h2.mediador{
     font-family: "apex_newbold";
 }
 
+h3.icono{
+    font-size: 20px;
+    font-family: "Myriad Pro Bold";
+}
+
 .texto{
     font-size: 20px;
     font-family: "Myriad Pro Regular";
@@ -16,7 +21,11 @@ h2.mediador{
 
 .bTexto{
     font-size: 20px;
-    font-family: "Myriad Pro Bold"
+    font-family: "Myriad Pro Bold";
+}
+
+.pIco{
+    margin-bottom: 30px
 }
 
 hr.mediador{
@@ -26,6 +35,10 @@ hr.mediador{
 img.profile {
     height: 257;
     width: 202;
+}
+
+#beneficiarios{
+    background-color: #EE3E6A;
 }
 
 /*** FONTS ***/
