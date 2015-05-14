@@ -14,13 +14,14 @@ body{
 }
 
 h1 { 
-    font-family:"Arvo";
+    font-family:"apex_newbold";
 	font-weight:normal;
 	font-size: 55px;
 	text-align: center;
-	color: #fff;
+	color: #F8D653;
 	margin: 0;
 	padding: 0;
+    position: center;
 }
 
 h2 {
@@ -135,18 +136,18 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
     background-size: 581px 392px;
     background-position: center;
 	color: #fff;
-	height: 600px;
+	height: 400px;
 	margin: 0;
-	padding: 200px 0 260px 0;
+	padding: 500px 0 260px 0;
 }
 
 #slide2{
-	background-color: #fff;
+	background-color: #652D90;
 	color: #333333;
-	height: 300px;
+	height: 600px;
 	margin: 0 auto;
 	overflow: hidden;
-	padding: 200px 0;
+	padding: 100px 0;
 }
 
 #slide3{
