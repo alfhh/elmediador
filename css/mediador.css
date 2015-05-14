@@ -4,6 +4,15 @@ p {
     font-size: 20px;
 }
 
+h1.mask { 
+    font-family:"apex_newbold";
+	font-size: 55px;
+	text-align: center;
+	color: #F8D653;
+    position: center;
+    padding: 100px 0 260px 0;
+}
+
 .brand {
     height: auto;
     width: 200px;
