@@ -60,7 +60,7 @@ a.rpanel:hover{ color: #fff; }
 #header { 
 	width: 100%; 
 	background: url('../img/header-bg.png'); 
-	height: 80px; 	
+	height: 80px;
 	position: fixed;
 	margin-top: 30px;
 }
@@ -99,11 +99,6 @@ a.rpanel:hover{ color: #fff; }
  .author_name_white { font-family:"Wellfleet";  margin: 70px 0 0 75px; color: #fff; font-size: 20px; }  
  .author_name_gray { font-family:"Wellfleet";  margin: 70px 0 0 75px; color: #94a4a4; font-size: 20px; }  
  .quotes_container { width: 800px; margin: 0 auto; }
-#christmas_tree { background: url('../img/christmas-tree.png')no-repeat; width: 48px; height: 77px; margin: 0 auto; position: relative; bottom: -35px;}
-#divider { background: url('../img/divider.png')no-repeat; width: 300px; height: 35px; margin: 0px auto 27px auto; }
-#ribbon { background: url('../img/ribbon.png')no-repeat; width: 251px; height: 48px; margin: 0 auto;  display: block; position: relative; top: -38px; }
-#snowflakes1 { background: url('../img/snowflakes.png')no-repeat; width: 24px; height: 21px; margin: 0 auto;  display: block; position: relative; bottom: -54px; left: -102px; }
-#snowflakes2 { background: url('../img/snowflakes.png')no-repeat; width: 24px; height: 21px; margin: 0 auto;  display: block; position: relative; bottom: -33px;  right: -100px; }
 
 
 
@@ -135,12 +130,14 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-	background:url('../img/slide1.jpg') 50% 0 no-repeat fixed;
+	background:url('/img/EMBLEMA%20GRANDE.png') 50% 0 no-repeat fixed;
+    background-color: #40A9AE;
+    background-size: 581px 392px;
+    background-position: center;
 	color: #fff;
 	height: 600px;
 	margin: 0;
 	padding: 200px 0 260px 0;
-	background-size: cover;
 }
 
 #slide2{
