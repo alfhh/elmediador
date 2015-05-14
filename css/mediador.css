@@ -1,15 +1,31 @@
 a.navs{
-    font-family: apex_newbold;
+    font-family: "apex_newbold";
 }
 
 h2.mediador{
+    padding-bottom: 20px;
     color: #F8D653;
     font-size: 40px;
-    font-family: apex_newbold;
+    font-family: "apex_newbold";
+}
+
+.texto{
+    font-size: 20px;
+    font-family: "Myriad Pro Regular";
+}
+
+.bTexto{
+    font-size: 20px;
+    font-family: "Myriad Pro Bold"
 }
 
 hr.mediador{
     color: #F8D653;
+}
+
+img.profile {
+    height: 257;
+    width: 202;
 }
 
 /*** FONTS ***/
@@ -32,4 +48,11 @@ font-family: 'Myriad Pro Regular';
 font-style: normal;
 font-weight: normal;
 src: local('fonts/Myriad Pro Regular'), url('fonts/MYRIADPRO-REGULAR.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Myriad Pro Bold';
+font-style: normal;
+font-weight: normal;
+src: local('fonts/Myriad Pro Bold'), url('fonts/MYRIADPRO-BOLD.woff') format('woff');
 }
