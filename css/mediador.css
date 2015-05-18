@@ -77,9 +77,10 @@ img.profile {
         background-color: #44BA8D;
     }
     #beneficiarios{
-        background: url(../img/logo%20azul.png) 50% 0 fixed;
+        background: url(../img/beneficiarios.jpg) 50% 0 fixed;
         background-position: center;
         background-color: #652D90;
+        background-size: cover;
         background-repeat: no-repeat;
         height: auto;  
         margin: 0 auto; 
