@@ -9,12 +9,13 @@ a.navs{
 
 h2.mediador{
     padding-bottom: 20px;
-    color: #F8D653;
+    color: white;
     font-size: 40px;
     font-family: "apex_newbold";
 }
 
 h3.icono{
+    color: white;
     font-size: 20px;
     font-family: "Myriad Pro Bold";
 }
@@ -24,6 +25,7 @@ h3.icono{
 }
 
 .texto{
+    color: white;
     font-size: 18px;
     font-family: "Myriad Pro Regular";
 }
@@ -46,14 +48,61 @@ img.profile {
     width: 202;
 }
 
-#beneficiarios{
-    background-color: #EE3E6A;
-}
+/* --- Parallax --- */
 
-#contact{
-    background-color: #F8D653;
-}
+    #about { 
+        background: url(../img/b1.png) 50% 0 fixed;
+        background-position: center;
+        background-color: #652D90;
+        background-repeat: no-repeat;
+        height: auto;  
+        margin: 0 auto; 
+        width: 100%; 
+        position: relative; 
+        box-shadow: 0 0 50px rgba(0,0,0,0.8);
+        padding: 100px 0;
+    }
+    #services {
+        background: url(../img/b2.png) 50% 0 fixed;
+        background-position: center;
+        background-color: #652D90;
+        background-repeat: no-repeat;
+        height: auto;  
+        margin: 0 auto; 
+        width: 100%; 
+        position: relative; 
+        box-shadow: 0 0 50px rgba(0,0,0,0.8);
+        padding: 100px 0;
+        background-color: #44BA8D;
+    }
+    #beneficiarios{
+        background: url(../img/b1.png) 50% 0 fixed;
+        background-position: center;
+        background-color: #652D90;
+        background-repeat: no-repeat;
+        height: auto;  
+        margin: 0 auto; 
+        width: 100%; 
+        position: relative; 
+        box-shadow: 0 0 50px rgba(0,0,0,0.8);
+        padding: 100px 0;
+        box-shadow: 0 0 50px rgba(0,0,0,0.8);
+        background-color: #EE3E6A;
+    }
 
+    #eventos{
+        height: auto;  
+        margin: 0 auto; 
+        width: 100%; 
+        position: relative; 
+        box-shadow: 0 0 50px rgba(0,0,0,0.8);
+        box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    }
+
+    #contact{
+        box-shadow: 0 0 50px rgba(0,0,0,0.8);
+        background-color: #F8D653;
+    }     
 
 /*** FONTS ***/
 
