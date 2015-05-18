@@ -65,6 +65,7 @@ img.profile {
     #services {
         background: url(../img/helping-hand.jpg) 50% 0 fixed;
         background-position: center;
+        background-size: cover;
         background-color: #652D90;
         background-repeat: no-repeat;
         height: auto;  
