@@ -52,7 +52,7 @@ img.profile {
 
     #about { 
         background: url(../img/logo%20verde.png) 50% 0 fixed;
-        background-position: left;
+        background-position: center;
         background-color: #652D90;
         background-repeat: no-repeat;
         height: auto;  
@@ -64,7 +64,7 @@ img.profile {
     }
     #services {
         background: url(../img/logo%20morado.png) 50% 0 fixed;
-        background-position: left;
+        background-position: center;
         background-color: #652D90;
         background-repeat: no-repeat;
         height: auto;  
@@ -77,7 +77,7 @@ img.profile {
     }
     #beneficiarios{
         background: url(../img/logo%20azul.png) 50% 0 fixed;
-        background-position: left;
+        background-position: center;
         background-color: #652D90;
         background-repeat: no-repeat;
         height: auto;  
