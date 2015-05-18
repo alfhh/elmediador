@@ -51,7 +51,7 @@ img.profile {
 /* --- Parallax --- */
 
     #about { 
-        background: url(../img/b1.png) 50% 0 fixed;
+        background: url(../img/logo%20verde.png) 50% 0 fixed;
         background-position: center;
         background-color: #652D90;
         background-repeat: no-repeat;
@@ -63,7 +63,7 @@ img.profile {
         padding: 100px 0;
     }
     #services {
-        background: url(../img/b2.png) 50% 0 fixed;
+        background: url(../img/logo%20morado.png) 50% 0 fixed;
         background-position: center;
         background-color: #652D90;
         background-repeat: no-repeat;
@@ -76,7 +76,7 @@ img.profile {
         background-color: #44BA8D;
     }
     #beneficiarios{
-        background: url(../img/b1.png) 50% 0 fixed;
+        background: url(../img/logo%20azul.png) 50% 0 fixed;
         background-position: center;
         background-color: #652D90;
         background-repeat: no-repeat;
